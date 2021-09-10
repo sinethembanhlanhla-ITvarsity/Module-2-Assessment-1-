@@ -154,13 +154,10 @@ img.info-box-weather-icon{
      height : 30px;
      width  : 30px !important;
      margin : 10px;
-     float  :left; 
-     text-align: center;
-     background: rgba(255, 255, 255, .8);
+     float  :left;
 }
 
 h1.info-box-weather-icon{
-     display: block;
      font-size  : 65px;
      font-weight: 200;
      padding    : 0;
