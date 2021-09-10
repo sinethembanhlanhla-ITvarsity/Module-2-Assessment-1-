@@ -155,6 +155,7 @@ img.info-box-weather-icon{
      width  : 30px !important;
      margin : 10px;
      float  :left; 
+     background: rgba(255, 255, 255, .8);
 }
 
 h1.info-box-weather-icon{
